@@ -48,9 +48,10 @@ Currently diving deep into AI while expanding my toolkit through hands-on projec
 
 
 # **📫 Contact**
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28">](https://instagram.com/yourusername)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28">](https://linkedin.com/in/yourusername)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28">](https://instagram.com/yourusername) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28">](https://linkedin.com/in/said-aitennecer)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28">](mailto:youremail@gmail.com)
+
 
 
 
